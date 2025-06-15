@@ -1,4 +1,4 @@
-# obesity-classification
+# Obesity-classification
 
 A machine learning project for classifying obesity levels based on lifestyle and physical health factors. Built using Python, this notebook applies several classification algorithms and compares their performance to identify the most effective model.
 
